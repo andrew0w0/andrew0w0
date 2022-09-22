@@ -1,5 +1,9 @@
 <h2 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Hello, I'm andrew 👋</h2>
 
+<div align="center">
+  
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/262264459030953985)](466861191931756544)
+
 <p align="center">
 <a href="https://discord.com/users/262264459030953985" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://github.com/flundar" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
