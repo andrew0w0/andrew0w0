@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/466861191931756544)](https://discord.com/users/466861191931756544)
+[![Discord Presence](https://lanyard.cnrad.dev/api/466861191931756544)](https://discord.com/users/466861191931756544)
 
 <p align="center">
 <a href="https://discord.com/users/262264459030953985" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
