@@ -11,6 +11,6 @@
 <a href="https://www.reddit.com/user/rootflundar" target"blank_"><img src="https://img.shields.io/badge/reddit%20-FF5700.svg?&style=for-the-badge&logo=reddit&logoColor=white"></a>
 <a href="https://open.spotify.com/user/216uhj5hxzvyxpbeioz6qxnca" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 <a href="https://www.instagram.com/benflundar/" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://discord.com/invite/CF59bVH" target"blank_"><img src="https://img.shields.io/discord/706851849705095182?style=for-the-badge&color=7289da&label=flundar&logo=node.js&logoColor=white"></a>
+<a href="https://discord.com/invite/CF59bVH" target"blank_"><img src="https://img.shields.io/discord/926898960285708399?style=for-the-badge&color=7289da&label=flundar&logo=node.js&logoColor=white"></a>
 <br>
 </p>
